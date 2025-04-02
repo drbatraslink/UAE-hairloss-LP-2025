@@ -30,7 +30,7 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 /*==========================================*/
 .banner-section-cls{background:url(../images/banner-bg-hair-02.webp) center center no-repeat;background-size:cover}
 @media (max-width:600px){
-.banner-section-cls{background:url(../images/banner-bg-mob-02.webp) top center no-repeat;background-size:cover}
+.banner-section-cls{background:url(../images/banner-bg-mob-02.webp) bottom center no-repeat;background-size:cover}
 }
 .hair_banner_content h1{font-weight:600;color:#173d5b;font-size:50px}
 .hair_banner_content h1 strong{font-weight:600;color:#173d5b;font-size:45px}

@@ -30,11 +30,11 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 /*==========================================*/
 .banner-section-cls{background:url(../images/banner-bg-hair-02.webp) center center no-repeat;background-size:cover}
 @media (max-width:600px){
-.banner-section-cls{background:url(../images/banner-bg-mob-02.webp) bottom center no-repeat;background-size:cover}
+.banner-section-cls{background:url(../images/banner-bg-mob-03.webp) bottom center no-repeat;background-size:cover}
 }
-.hair_banner_content h1{font-weight:600;color:#173d5b;font-size:50px}
-.hair_banner_content h1 strong{font-weight:600;color:#173d5b;font-size:45px}
-.hair_banner_content h2{font-weight:500;color:#173d5b;font-size:32px;line-height:auto}
+.hair_banner_content h1{font-weight:600;color:#ffffff;font-size:50px}
+.hair_banner_content h1 strong{font-weight:600;color:#ffffff;font-size:45px}
+.hair_banner_content h2{font-weight:500;color:#ffffff;font-size:32px;line-height:auto}
 .hair_banner_content h3{font-size:35px;font-weight:500;color:#173d5b;line-height:30px}
 .hair_banner_content h4{font-size:55px;font-weight:800;color:#173d5b;margin-bottom:0}
 .hair_banner_content h5{margin-top:20px;margin-bottom:0;font-size:28px;font-weight:600;color:#383838}
@@ -79,19 +79,19 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 /*==========================================*/
 /* Offer css*/
 /*==========================================*/
-.offer-background-sec-new{background-color:#173d5b;padding-top:11px;padding-bottom:11px;background:linear-gradient(90deg,#0d2334 0,#173d5b 51%,#0d2334 100%)}
-.border-right-css-n-band{border-right:1px solid #fff}
+.offer-background-sec-new{background-color:#173d5b;padding-top:11px;padding-bottom:11px;background: linear-gradient(135deg,#b99863 0,#e0cd98 25%,#f8edb8 50%,#d7c18f 75%,#ac8a5b 100%);}
+.border-right-css-n-band{border-right: 1px solid #173d5b;}
 .blue-band-padding-new-css{padding:0 30px}
-.blue-band-offer-heading{margin-bottom:0;font-size:28px;color:#fff;font-weight:600;line-height:normal}
-.percntageband-heading{font-size:28px;font-weight:700;color:#fff;margin-bottom:0}
-.offer-new-para-css{margin-bottom:0;color:#fff;font-size:18px;line-height:normal}
-.small_white_offer_offer{float:right;font-size:12px;font-weight:600;color:#fff;margin-top:-15px}
+.blue-band-offer-heading{margin-bottom:0;font-size:28px;color: #1b3e5a;font-weight:600;line-height:normal}
+.percntageband-heading{font-size:28px;font-weight:700;color: #173d5b;margin-bottom:0}
+.offer-new-para-css{margin-bottom:0;color: #173d5b;font-size:18px;line-height:normal; font-weight: 500}
+.small_white_offer_offer{float:right;font-size:12px;font-weight:600;color: #173d5b;margin-top:-15px}
 @media(max-width:1024px){
 .blue-band-padding-new-css{padding:0 18px}
 }
 @media(max-width:922px){
 .border-right-css-n-band{border-right:none}
-.offer-new-para-css{margin-bottom:0;color:#fff;font-size:16px;line-height:normal}
+.offer-new-para-css{margin-bottom:0;color:#173d5b;font-size:16px;line-height:normal}
 .blue-band-padding-new-css{padding:20px 0}
 }
 @media(max-width:768px){
@@ -100,10 +100,10 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 .blue-band-padding-new-css{padding:0 15px}
 .border-right-css-n-band{border-right:none}
 .blue-band-offer-heading{font-size:24px}
-.small_white_offer_offer{float:right;font-size:10px;font-weight:600;color:#fff;margin-top:20px;margin-bottom:0}
+.small_white_offer_offer{float:right;font-size:10px;font-weight:600;color:#173d5b;margin-top:20px;margin-bottom:0}
 }
 @media(max-width:600px){
-.offer-new-para-css{margin-bottom:0;color:#fff;font-size:18px;line-height:normal}
+.offer-new-para-css{margin-bottom:0;color:#173d5b;font-size:18px;line-height:normal}
 }
 
 /*==========================================*/

@@ -45,14 +45,16 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 .hair_banner_content h1{font-size:45px;}
 .hair_banner_content h1 strong{font-weight:600;color:#173d5b;font-size:45px}
 .hair_banner_content h4{font-size:45px;font-weight:800;color:#173d5b;margin-bottom:0;}
+.hair_banner_content h2{font-size:30px;line-height:auto}
 }
 @media (max-width:1460px){
-.hair_banner_content h1{font-size:42px}
+.hair_banner_content h1{font-size:38px}
 .hair_banner_content h1 strong{font-weight:600;color:#173d5b;font-size:42px}
 .hair_banner_content h4{font-size:42px;font-weight:800;color:#173d5b;margin-bottom:0}
+.hair_banner_content h2{font-size:28px;line-height:auto}
 }
 @media (max-width:1280px){
-.hair_banner_content h1{font-size:36px}
+.hair_banner_content h1{font-size:34px}
 .hair_banner_content h1 strong{font-weight:600;color:#173d5b;font-size:36px}
 .hair_banner_content h4{font-size:36px;font-weight:800;color:#173d5b;margin-bottom:0}
 }
@@ -60,6 +62,7 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 .hair_banner_content h1{font-size:28px}
 .hair_banner_content h1 strong{font-weight:600;color:#173d5b;font-size:28px}
 .hair_banner_content h4{font-size:28px;font-weight:800;color:#173d5b;margin-bottom:0}
+.hair_banner_content h2{font-size:26px;line-height:auto}
 }
 @media (max-width:600px){
 .hair_banner_content h1{font-size:32px; text-align: center;}

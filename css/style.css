@@ -65,7 +65,7 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 .hair_banner_content h2{font-size:26px;line-height:auto}
 }
 @media (max-width:600px){
-.hair_banner_content h1{font-size:32px; text-align: center;}
+.hair_banner_content h1{font-size:28px; text-align: center;}
 .hair_banner_content h1 strong{font-weight:600;color:#173d5b;font-size:32px}
 .hair_banner_content h2{font-size:21px;line-height:auto;text-align: center;}
 .hair_banner_content h4{font-size:32px;font-weight:800;color:#173d5b;margin-bottom:0; text-align: center;}
